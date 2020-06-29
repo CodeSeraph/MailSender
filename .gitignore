@@ -1,0 +1,6 @@
+*.vs
+*.nuspec
+*.nupkg
+nuget.exe
+
+AsyncSendTest/

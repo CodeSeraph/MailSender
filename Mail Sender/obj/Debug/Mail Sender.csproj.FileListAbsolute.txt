@@ -1,0 +1,11 @@
+D:\Dropbox\Documents\Visual Studio 2013\Projects\DLLs\Mail Sender\Mail Sender\bin\Debug\Mail_Sender.dll
+D:\Dropbox\Documents\Visual Studio 2013\Projects\DLLs\Mail Sender\Mail Sender\bin\Debug\Mail_Sender.pdb
+D:\Dropbox\Documents\Visual Studio 2013\Projects\DLLs\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.dll
+D:\Dropbox\Documents\Visual Studio 2013\Projects\DLLs\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.pdb
+D:\Dropbox\Documents\Visual Studio 2013\Projects\DLLs\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csprojAssemblyReference.cache
+D:\Dropbox\Documents\Visual Studio\Projects\DLLs\Mail Sender\Mail Sender\bin\Debug\Mail_Sender.dll
+D:\Dropbox\Documents\Visual Studio\Projects\DLLs\Mail Sender\Mail Sender\bin\Debug\Mail_Sender.pdb
+D:\Dropbox\Documents\Visual Studio\Projects\DLLs\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csprojAssemblyReference.cache
+D:\Dropbox\Documents\Visual Studio\Projects\DLLs\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csproj.CoreCompileInputs.cache
+D:\Dropbox\Documents\Visual Studio\Projects\DLLs\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.dll
+D:\Dropbox\Documents\Visual Studio\Projects\DLLs\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.pdb
